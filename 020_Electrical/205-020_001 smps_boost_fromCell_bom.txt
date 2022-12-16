@@ -1,0 +1,24 @@
+Partlist							
+							
+Exported	from	205-020_001	smps_boost_fromCell.brd	at	18-Nov-20	5:22	PM
+							
+EAGLE	Version	7.6.0	Copyright	(c)	1988-2016	CadSoft	
+							
+Assembly	variant:						
+							
+Part	Value	Package	Library	Position	(mm)	Orientation	
+							
+C1	22uF	805	SparkFun-Capacitors	(8.33	9.41)	R0	
+C2	22uF	805	SparkFun-Capacitors	(17.13	7.53)	R90	
+C4	22uF	805	SparkFun-Capacitors	(18.95	7.53)	R90	
+C5	10nF	603	SparkFun-Capacitors	(17.73	10.24)	R0	
+C6	18pf	805	SparkFun-Capacitors	(16.5	13.6)	R180	
+C7	100uF	1206	SparkFun-Capacitors	(24	7)	R90	
+C8	100uF	1206	SparkFun-Capacitors	(21	7)	R90	
+R1	100k	603	SparkFun-Resistors	(12.93	11.93)	R0	
+R2	1M	603	SparkFun-Resistors	(17.37	3.2)	R180	
+R3	402k	603	SparkFun-Resistors	(16.53	11.89)	R0	
+U$1	1uH	07A7	cs_inductors	(5.56	4.42)	R0	
+U1	TPS61232DRCR	DRC0010G	texas	(14.01	8.8)	R90	
+X1	2POL254	con-phoenix-254	(2.6	7.8)	R270		
+X2	2POL254	con-phoenix-254	(27.6	7.4)	R90		
